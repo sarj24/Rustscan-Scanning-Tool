@@ -5,5 +5,5 @@ Rustscan is a scanning tool used to analye and gather information about the webs
 
 1. Run the below command to install package manger and tool.
 
-   ```sudo apt update 
-    sudo apt install cargo rustc```
+   ```sudo apt update ```
+   ```sudo apt install cargo rustc```
